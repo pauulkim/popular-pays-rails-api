@@ -15,6 +15,16 @@ create the database
 bundle exec rails db:create
 ```
 
+migrate tables
+```
+bundle exec rails db:migrate
+```
+
+start the app 
+```
+rails s
+```
+
 
 
 This README would normally document whatever steps are necessary to get the
