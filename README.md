@@ -1,4 +1,21 @@
 # Popular Pays Rails REST API
+## Running the Application
+install dependencies
+```
+bundle install
+```
+
+start the postgres database
+```
+sudo service postgresql start
+```
+
+create the database
+```
+bundle exec rails db:create
+```
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
